@@ -42,11 +42,6 @@ An autonomous four wheel drive robot that detects a flame in its surroundings, d
 3. Wire the components according to the pin definitions at the top of the code.
 4. Upload the code to the board and power the robot.
 
-## Safety Note
-
-Test only with small, controlled flames (such as a candle) and in a safe environment, with an adult present and a way to put out the fire close at hand.
-
 ## Author
 
-**Omer Shtanger**, Electrical Engineering student at Tel Aviv University
-[LinkedIn](https://linkedin.com/in/omer-shtanger) · [GitHub](https://github.com/omershtanger)
+**Omer Shtanger**

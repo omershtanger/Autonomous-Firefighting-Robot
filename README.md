@@ -1,6 +1,6 @@
 # Autonomous Firefighting Robot
 
-An autonomous four-wheel-drive robot that detects a flame in its surroundings, drives toward it, and puts it out with a water pump. No remote control is used: detection and suppression happen in real time.
+An autonomous four wheel drive robot that detects a flame in its surroundings, drives toward it, and puts it out with a water pump. No remote control is used: detection and suppression happen in real time.
 
 <!-- Add a photo or GIF of the robot here, e.g. ![Robot](images/robot.jpg) -->
 
